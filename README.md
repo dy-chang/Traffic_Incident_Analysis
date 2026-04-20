@@ -122,23 +122,23 @@ The goal is to support traffic operations and incident management by identifying
 
 Focus: Traffic modeling, incident analysis, resilience, and AI-driven transportation systems
 
+## Project Structure
 
 traffic-incident-clearance-time-prediction/
 │
 ├── notebooks/
-│   ├── 01_data_inventory.ipynb
-│   ├── 02_chart_cleaning.ipynb
-│   └── 03_chart_modeling.ipynb
+│ ├── 01_data_inventory.ipynb
+│ ├── 02_chart_cleaning.ipynb
+│ └── 03_chart_modeling.ipynb
 │
 ├── outputs/
-│   ├── figures/
-│   └── tables/
+│ ├── figures/
+│ └── tables/
 │
 ├── data/
-│   └── processed/
+│ └── processed/
 │
 └── README.md
-
 
 ---
 
