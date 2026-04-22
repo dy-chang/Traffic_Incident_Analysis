@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large data files
+data/raw/
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Temporary outputs
+*.log
+*.tmp
+
+# Personal / absolute-path artifacts
+*.bak
