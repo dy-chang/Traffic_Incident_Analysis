@@ -20,6 +20,12 @@ The goal is to support traffic operations and incident management by identifying
 - AUC = **0.83** for identifying incidents lasting more than 60 minutes  
 - Recall = **0.76** for long-duration incidents (vs baseline = 0)  
 
+![Predicted vs Actual Duration](outputs/figures/chart_pred_vs_actual_duration.png)
+
+![Regression Feature Importance](outputs/figures/chart_regression_feature_importance.png)
+
+![Classification Feature Importance](outputs/figures/chart_classification_feature_importance.png)
+
 ---
 
 ## Data
